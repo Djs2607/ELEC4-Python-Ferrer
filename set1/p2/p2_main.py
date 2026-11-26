@@ -18,7 +18,7 @@ def main():
         grade = float(input("Enter grade: "))
         grades.append(grade)
 
-    print("\n===== STUDENT RESULTS =====")
+    print("\n===== STUDENT RESULTS - Dan Justin C. Ferrer =====")
     print("Grades:", grades)
     print("Average:", compute_average(grades))
     print("Highest Grade:", student_utils.get_highest(grades))
