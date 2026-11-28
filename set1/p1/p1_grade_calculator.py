@@ -7,6 +7,7 @@ PASSING_GRADE = 75
 
 
 def enter_grades():
+
     grades = []
 
     while True:
